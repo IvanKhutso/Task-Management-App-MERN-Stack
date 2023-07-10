@@ -1,6 +1,5 @@
 # Task-Management-App-MERN-Stack
 
-# Task Management App (MERN Stack)
 
 A task management application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack.
 
