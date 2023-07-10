@@ -4,13 +4,14 @@
 
 A task management application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack.
 
-![Task Management App Screenshot](./screenshot.png)
-
+- ![screenshot](https://github.com/IvanKhutso/Task-Management-App-MERN-Stack/assets/64652828/4f393d40-9f70-43dd-87d2-cd04647867d4)
 ## Table of Contents
 
+## installation
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
+
+
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
